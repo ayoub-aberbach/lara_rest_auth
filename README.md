@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Features
+
+<p>1- Register, Login, Logout.</p>
+<p>2- Update user data (optional).</p>
+<p>3- Update profile image.</p>
+<p>4- Clear access tokens after changing sensitive data such as email or password.</p>
